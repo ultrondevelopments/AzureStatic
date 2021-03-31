@@ -1,0 +1,2 @@
+# AzureStatic
+Created with CodeSandbox
